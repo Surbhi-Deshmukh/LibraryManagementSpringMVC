@@ -1,0 +1,22 @@
+
+
+table {
+	text-align: center;
+	width: 100%;
+	border: 1px solid black;
+	
+}
+
+table th, table td {
+	padding: 8px 10px;
+	border: 1px solid black;
+}
+
+.action-btn{
+	width: 65px;
+}
+
+.action{
+	width: 160px;
+}
+

@@ -1,0 +1,19 @@
+.form-wrapper{
+	padding: 10px 50px;
+	width: 700px;
+	margin: 0 auto;
+}
+
+.input-box{
+	width: 300px;
+}
+
+.login-btn{
+	width: 100px;
+}
+
+#msg{
+	font-size: 13px;
+	display: none;
+
+}

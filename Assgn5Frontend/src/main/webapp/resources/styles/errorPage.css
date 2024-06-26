@@ -1,0 +1,29 @@
+.container{
+	margin: 0 auto;
+	width: 30%;
+	text-align: center;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+}
+
+.sorry{
+	font-size: 24px;
+	margin-bottom: 8px;
+}
+
+.wrong{
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+.home-btn{
+	padding: 10px 18px;
+}
+
+.error-img{
+	width: 150px;
+	
+}

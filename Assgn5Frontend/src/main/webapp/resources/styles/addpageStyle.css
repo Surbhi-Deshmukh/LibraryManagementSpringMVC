@@ -1,0 +1,16 @@
+.row{
+	margin-bottom: 10px;
+}
+
+.form-wrapper{
+	padding-left: 10%;
+}
+
+.input-box{
+	width: 55%;
+}
+
+.select-box{
+	width: 55%;
+	height: 31px;
+}
